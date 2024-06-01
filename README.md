@@ -56,10 +56,10 @@ A partir de un análisis rudimentario de los datos se pudo extraer:
 Puedes ver el dashboard interactivo generado descargando el archivo `DashBoards.pbix` o en el siguiente enlace.
 
 <div align="center">
-  <a href='www.linkedin.com/in/juan-camilo-torres-salas-907749265'>
+  <a href='https://www.linkedin.com/in/juan-camilo-torres-salas-907749265/'>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"alt="Linkedin"/>
   </a>
-  <a href='torressalasjc@gmail.com'>
+  <a href='mailto:torressalasjc@gmail.com'>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
