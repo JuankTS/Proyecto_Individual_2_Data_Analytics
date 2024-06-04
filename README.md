@@ -6,10 +6,12 @@
 ## Tabla de Contenido
 - [Introducción](#introducción)
 - [Los Datos y su Análisis](#los-datos-y-el-análisis)
+- [DashBoard](#dashboard)
 - [Conclusiones](#conclusiones)
-- [Explicación del Repositorio](#explicación-del-repositorio)
 - [KPIs](#kpis)
 - [Visualización](#visualización)
+- [Explicación del Repositorio](#explicación-del-repositorio)
+
 
 ## Introducción.
 Los siniestros viales, conocidos también como accidentes de tráfico o accidentes de tránsito, son eventos que involucran vehículos en las vías públicas y que pueden tener diversas causas, como colisiones entre automóviles, motocicletas, bicicletas o peatones, atropellos, choques con objetos fijos o caídas de vehículos. Estos incidentes pueden tener consecuencias que van desde daños materiales hasta lesiones graves o fatales para los involucrados.
@@ -38,9 +40,20 @@ Este histograma nos muestra las horas en las que más ocurren accidentes en la c
 
 Tambien podemos ver la cantidad de accidentes por años, lo cual nos puede dar una visión de como se comportan las tendensias, en el tiempo y dentro de los mismos años.
 #  <div align='Center'> ![alt text](/Imagenes/Años.png) </div>
-
-
 Estos son algunos de los datos claves que se pudieron extraer del análisis. Para ver el análisis completo puede dirigirse al archivo **EDA.ipynb**.
+
+
+## DashBoard 
+Una vez hecho el EDA y tener una buena idea de lo que tenemos en en nuestros datos, damos paso a la realización del dashboard donde presentaremos los datos más relevantes para mostrar la información a los usuarios.
+# <dic aling= 'Center'>![alt text](/Imagenes/Hechos.png)</div> 
+
+En esta primera página se generan insights en los cuales analizamos la infomación de los accidenes, como a las haras que son más frecuentes, las comunas y tipos de calles en que más incidencia de estos hechos registrados, lo que nos puede dar una idea de donde se encuentran estos puntos de concentración de dichos registros.
+
+# <dic aling= 'Center'>![alt text](/Imagenes/victimas.png)</div> 
+
+En este otro segmento tenemos estas visulizaciones generadas apartir de la información de las víctimas, las visulizaciones nos muestran, la proporción por género de las personas que fueron víctimas de un accidente, tambien nos muestran la distribución por edad de estas personas y el medio de transporte el cual usaban en el momento del hecho, lo cual puede ser información la clave para formular medidas que puedan disminuir estos números. 
+
+
 
 ## KPIs.
 
@@ -68,14 +81,15 @@ A partir de un análisis rudimentario de los datos se pudo extraer:
 - El 76,65% de las víctimas son del sexo masculino.
 - La comuna 1 tiene el mayor número de siniestros registrados.
 
+
+## Visualización.
+Puedes ver el dashboard interactivo generado descargando el archivo `DashBoards.pbix`. 
+
 ## Explicación del Repositorio.
 - **Carpeta Data**: Contiene las bases de datos usadas para el proyecto.
 - **EDA.ipynb**: Contiene el cargue, las transformaciones y el análisis que se realizaron a los datos.
 - **DashBoards.pbix**: Contiene el dashboard interactivo hecho con los datos.
 - **Imagenes**: Contiene las imagenes usadas.
-
-## Visualización.
-Puedes ver el dashboard interactivo generado descargando el archivo `DashBoards.pbix`. 
 
 <div align="center">
   <a href='https://www.linkedin.com/in/juan-camilo-torres-salas-907749265/'>
