@@ -75,7 +75,7 @@ A partir de un análisis rudimentario de los datos se pudo extraer:
 - **Imagenes**: Contiene las imagenes usadas.
 
 ## Visualización.
-Puedes ver el dashboard interactivo generado descargando el archivo `DashBoards.pbix` o en el siguiente enlace.
+Puedes ver el dashboard interactivo generado descargando el archivo `DashBoards.pbix`.
 
 <div align="center">
   <a href='https://www.linkedin.com/in/juan-camilo-torres-salas-907749265/'>
